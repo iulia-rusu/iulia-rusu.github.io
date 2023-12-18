@@ -4,7 +4,7 @@ description: testing
 remote_theme: parchment
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: [iulia-rusu.github.io]
 incremental: false
 highlighter: rouge
 gist:
