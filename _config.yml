@@ -2,13 +2,3 @@ theme: jekyll-theme-minimal
 title: Iulia Rusu
 description: testing
 remote_theme: parchment
-lsi: false
-safe: true
-source: [iulia-rusu.github.io]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
