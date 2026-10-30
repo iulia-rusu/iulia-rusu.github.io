@@ -1,0 +1,73 @@
+<!-- Publication list, included on both the home page and the Research page.
+     Each paper is one ::: {.pub} block. Add .pub-featured to highlight it.
+     To add a thumbnail, put ![](image.png){.pub-thumb} as the first line inside ::: {.pub}. -->
+
+### PhD
+
+::: {.pub .pub-featured}
+::: {.pub-text}
+[Hyperbolic Inverse Reinforcement Learning]{.pub-title}\
+**Rusu, I.**, Praturu, A., Gepshtein, S., & Sharpee, T. O.\
+*Preprint*, 2026\
+[pdf](papers/hyperbolic-irl.pdf){.pill}
+:::
+:::
+
+::: {.pub .pub-featured}
+::: {.pub-text}
+[A framework for analyzing global *Caenorhabditis elegans* neural activity]{.pub-title}\
+**Rusu, I.**, Cecere, Z. T., How, J. J., Quach, K. T., Yemini, E., Sharpee, T. O., & Chalasani, S. H.\
+*eLife*, 15, e108234, 2026\
+[paper](https://doi.org/10.7554/eLife.108234){.pill}
+:::
+:::
+
+### Post-bac
+
+::: {.pub}
+::: {.pub-text}
+[Microbial signals, MyD88, and lymphotoxin drive TNF-independent intestinal epithelial tissue damage]{.pub-title}\
+**Rusu, I.**, Mennillo, E., Bain, J. L., Li, Z., Sun, X., Ly, K. M., Rosli, Y. Y., Naser, M., et al.\
+*The Journal of Clinical Investigation*, 132(5), 2022
+:::
+:::
+
+::: {.pub}
+::: {.pub-text}
+[Single-cell and spatial multi-omics highlight effects of anti-integrin therapy across cellular compartments in ulcerative colitis]{.pub-title}\
+Mennillo, E., Kim, Y. J., Lee, G., **Rusu, I.**, Patel, R. K., Dorman, L. C., Flynn, E., Li, S., et al.\
+*Nature Communications*, 15(1), 1493, 2024
+:::
+:::
+
+::: {.pub}
+::: {.pub-text}
+[Tabula Sapiens 2.0: A comprehensive transcriptomic atlas of human cell types]{.pub-title}\
+Jones, R. C., Krasnow, M. A., Pisco, A. O., Quake, S. R., Salzman, J., Yosef, N., et al.\
+*Cell*, 2026
+:::
+:::
+
+::: {.pub}
+::: {.pub-text}
+[Dysregulation of CD4+ and CD8+ resident memory T, myeloid, and stromal cells in steroid-experienced, checkpoint inhibitor colitis]{.pub-title}\
+He, J. Y., Kim, Y. J., Mennillo, E., **Rusu, I.**, Bain, J., Rao, A. A., Andersen, C., Law, K., et al.\
+*Journal for Immunotherapy of Cancer*, 12(4), e008628, 2024
+:::
+:::
+
+::: {.pub}
+::: {.pub-text}
+[A20 restricts NOS2 expression and intestinal tumorigenesis in a mouse model of colitis-associated cancer]{.pub-title}\
+Basta, D. W., Vong, M., Beshimova, A., Nakamura, B. N., **Rusu, I.**, Kattah, M. G., et al.\
+*Gastro Hep Advances*, 2(1), 96–107, 2023
+:::
+:::
+
+::: {.pub}
+::: {.pub-text}
+[A cell type-specific expression map of NCoR1 and SMRT transcriptional co-repressors in the mouse brain]{.pub-title}\
+Iemolo, A., Montilla-Perez, P., Lai, I. C., Meng, Y., Nolan, S., Wen, J., **Rusu, I.**, et al.\
+*Journal of Comparative Neurology*, 528(13), 2218–2238, 2020
+:::
+:::

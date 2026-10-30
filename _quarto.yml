@@ -1,0 +1,44 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!projects/"   # projects hidden until they are ready to share
+    - "!posts/beginners_guide_hyperbolic/"   # post hidden until it is ready to share
+  resources:
+    - CNAME
+    - cv.pdf
+
+website:
+  title: "Iulia Rusu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: posts/index.qmd
+        text: Posts
+      - href: research.qmd
+        text: Research
+      # Projects hidden until they are ready to share
+      # - href: projects/index.qmd
+      #   text: Projects
+      - href: about.qmd
+        text: About
+      - href: cv.pdf
+        text: CV
+
+    right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=G-KTa-QAAAAJ&hl=en
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/iulia-rusu
+        aria-label: GitHub
+
+      
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    mainfont: "Lora"
+    monofont: "JetBrains Mono"

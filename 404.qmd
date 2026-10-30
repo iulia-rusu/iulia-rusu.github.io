@@ -1,0 +1,9 @@
+---
+title: "404"
+number-sections: false
+anchor-sections: false
+---
+
+Page not found :(
+
+The requested page could not be found. [Go back home](index.qmd).

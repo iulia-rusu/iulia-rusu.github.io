@@ -1,0 +1,16 @@
+# Quarto (never track)
+_site/
+site_libs/
+.quarto/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+/.quarto/
+
+**/*.quarto_ipynb
+
+# Not ready to share yet (also excluded from the site build in _quarto.yml)
+projects/
+posts/beginners_guide_hyperbolic/

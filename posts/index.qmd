@@ -1,0 +1,10 @@
+---
+title: "Posts"
+listing:
+  contents: .
+  sort: "date desc"
+  type: default
+  categories: false
+number-sections: false
+anchor-sections: false
+---

@@ -1,0 +1,23 @@
+---
+title: "Research"
+---
+
+I study Reinforcement Learning and Computational Neuroscience, advised by Tatyana Sharpee in the Computational Neurobiology Laboratory (CNLT) at the Salk Institute and UC San Diego.
+
+
+[Google Scholar](https://scholar.google.com/citations?user=G-KTa-QAAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0000-0002-7146-0499) ·
+[GitHub](https://github.com/iulia-rusu)
+
+
+## Research interests
+- Reinforcement learning
+- Inverse Reinforcement learning
+- Representation Geometry
+- Robotics
+- Computational neuroscience
+
+
+## Publications
+
+{{< include _publications.qmd >}}
