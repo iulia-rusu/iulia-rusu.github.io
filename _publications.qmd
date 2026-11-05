@@ -8,8 +8,8 @@
 ::: {.pub-text}
 [Hyperbolic Inverse Reinforcement Learning]{.pub-title}\
 **Rusu, I.**, Praturu, A., Gepshtein, S., & Sharpee, T. O.\
-*Preprint*, 2026\
-[pdf](papers/hyperbolic-irl.pdf){.pill}
+*arXiv:2610.42104*, 2026\
+[arXiv](https://arxiv.org/abs/2610.42104){.pill}
 :::
 :::
 
