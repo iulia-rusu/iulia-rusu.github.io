@@ -20,6 +20,6 @@ datasets](https://doi.org/10.1038/s41467-024-45665-6).
 
 In 2023 I started my PhD at UCSD focusing predominantly on both creating new Reinforcement Learning
 methods and adapting them as tools for computational neuroscientists to analyze behavior and decision making in humans and primates. I use tools
-from information theory and information geometry, you can check out my work on
-[mapping neural activity into hyperbolic space](https://doi.org/10.7554/eLife.108234),
-and to [build new methods for inverse reinforcement learning](https://arxiv.org/abs/2610.42104). 
+from information theory and information geometry to analyze data and build new methods.
+You can check out my work [mapping neural activity into hyperbolic space](https://doi.org/10.7554/eLife.108234)
+and [building new methods for inverse reinforcement learning](https://arxiv.org/abs/2610.42104).
