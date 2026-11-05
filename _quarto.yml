@@ -7,6 +7,7 @@ project:
   resources:
     - CNAME
     - cv.pdf
+    - papers/hyperbolic-irl.pdf   # linked from a proposal; keep this address working
 
 website:
   title: "Iulia Rusu"
